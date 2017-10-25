@@ -1,1 +1,2 @@
-exclude_paths: ./config_loca/
+exclude_paths:
+- "config_loca/"
