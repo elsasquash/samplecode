@@ -1,3 +1,2 @@
 exclude_paths:
-- spec/**/*
-- "**/vendor/**/*"
+- config_loca/
